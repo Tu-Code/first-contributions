@@ -12,6 +12,7 @@
 - [Kiran Kuumar Mohanty](https://github.com/theluckiestsoul)
 - [Jonathan G Araya](https://github.com/Jonathana1106)
 - [jungchoib](https://github.com/jungchoib)
+- [Sarah Solarin]()
 - [Jongkwang131](https://github.com/Jongkwang131)
 - [sneha-2510](https://github.com/sneha-2510)
 - [jiwonqaz](https://github.com/jiwonqaz)
